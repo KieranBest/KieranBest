@@ -4,8 +4,8 @@
 🐶 Dog walking
 🏂 Snowboarding
 
-- 🔭 I’m currently working on creating a gaming portfolio in order to break into the gaming industry. I have already created a small game of chase called 'Tircle' which you can view [here](https://github.com/KieranBest/Tircle#readme) using unity, however with recent developments I have chosen to branch out.
-- 🌱 Therefore I’m currently learning UE5.3 specifically gameplay mechanics with a view to create a range of different game genre demos. [That's My Bird](https://github.com/KieranBest/Thats-My-Bird) is my current project, building a platformer based on an evil villain stealing your bird and taking your memory. From this you can have 3 abilities, this will add more strategic planning to the game. Abilities will include:
+- 🔭 I’m currently working on creating a gaming portfolio in order to break into the gaming industry. I have already created a small game of chase using unity called 'Tircle' which you can view [here](https://github.com/KieranBest/Tircle#readme), however with recent developments I have chosen to branch out.
+- 🌱 Therefore I’m currently learning UE5 specifically gameplay mechanics with a view to create a range of different game genre demos. [That's My Bird](https://github.com/KieranBest/Thats-My-Bird) is my current project, building a platformer based on an evil villain stealing your bird and taking your memory. From this you can have 3 abilities, this will add more strategic planning to the game. Abilities will include:
   - Walk Right
   - Walk Left
   - Jump
