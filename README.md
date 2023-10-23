@@ -16,6 +16,7 @@
 I've decided to only make small demo worth games in order to build my knowledge of various concepts.
 
 - ⚡ Fun fact: Before 2023, I'd never created my own game from scratch without any kind of tutorial.
+- ⚡ I created a small website for fun just to see everything I think is worth showing [here](https://kieranbest.github.io/)
 
 <!--
 Here are some ideas to get you started:
