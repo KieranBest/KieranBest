@@ -1,7 +1,9 @@
 ## Hello there 👋
 
-🎧 Gaming
+:video_game: Gaming
+:hamburger: Cooking
 🐶 Dog walking
+:runner: Exercising
 🏂 Snowboarding
 
 - 🔭 I’m currently working as a Junior Product Developer but love to create applications/games on the side. You can take a look at my creations here on my github profile.
